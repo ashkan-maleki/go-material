@@ -4,3 +4,4 @@
 4) https://github.com/quintans/go-clean-ddd/
 5) https://programmingpercy.tech/blog/how-to-domain-driven-design-ddd-golang/
 6) https://iogohary.hashnode.dev/ddd-aggregates
+7) https://www.damianopetrungaro.com/posts/ddd-using-golang-strategic-design/
